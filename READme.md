@@ -27,8 +27,11 @@ Behavioral (HACRT.csv generating scripts)
 
 USING FSLVIEW
 to load the fsl module (use Sherlock software)
+  
   ml biology fsl
+
 to launch fslview
+  
   fslview_deprecated 
 
 
