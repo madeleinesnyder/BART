@@ -35,11 +35,7 @@ to launch fslview
   fslview_deprecated 
 
 
- 
-Contrasts: wins preceded by explosions v.s. wins preceded by cashouts
-           losses preceded by explosions v.s. losses preceded by cashouts
-Put paths, and commands, and confluence page 
-
-PATHS
+Once you are in fslview, click File > Add Standard > OK, then click File > Add > spmT001.nii.gz
+Set threshold min to 2 and max to 5 (top bar), click "i" icon and set "greyscale" to "hot"
 
 
